@@ -2,7 +2,7 @@
 # Simple Linear Regression
 # Importing the dataset
 getwd()
-dataset<-read.csv("D:/B.tech 7 Semester/Predictive analysis int 234/Salary_Data.csv")
+dataset<-read.csv("D:/Salary_Data.csv")
 View(dataset)
 str(dataset)
 # Splitting the dataset into the Training set and Test set
